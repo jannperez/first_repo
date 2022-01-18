@@ -1,0 +1,44 @@
+body{
+			background-color: lightpink;
+			text-align: center;
+		}
+		h2{
+			color: blue;
+		}
+
+		#janetlist{
+			color: green;
+		}
+		.favlist{
+			text-decoration: underline;
+		}
+		#para1{
+			color: red;
+		}
+		.para2{
+			color: blue;
+		}
+		span{
+			color:blue;
+			font-size:50;
+			font-family:arial;
+		}
+
+       form{
+       	padding: 15px;
+       	background-color: white;
+       	font-style: italic;
+       	border-style: solid;
+       	font-weight: 900px;
+       	height: 300px;
+       	width: 200px;
+       }
+       input[type=button]: {
+       	color: black;
+       	background-color: rgb(0,200,0);
+       	padding:  5px;
+       }
+       table {
+       	text-align:  center;
+       }
+		
